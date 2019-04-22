@@ -1,5 +1,5 @@
 # Scripting|Liechtenstein
-<p align="center"><img src="https://github.com/Liechten/liechten.github.io/raw/master/assets/SL-logo.svg"></p>
+<p align="center"><img src="https://i.imgur.com/i8eZxtH.png"></p>
 
 <p align="center">
 
